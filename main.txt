@@ -1,3 +1,217 @@
-hi
-guys 
-how are you<br>firtst github project 
+
+<html lang="en">
+<head>
+  <script src="app.js"></script>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>skssf kolathol unit</title>
+  <meta name="author" content="Digital-Technology-Solutions">
+
+  <link rel="stylesheet" href="cluster.css">
+
+</head>
+<style type="text/css">
+
+</style>
+<body>
+  <!-- your content here... -->
+  
+<div id="top-bar" >
+<div>
+<svg width="32" height="32" fill="currentColor" class="bi-list" viewBox="0 0 16 16">
+    <path fill-rule="evenodd" d="M2.5 12a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5zm0-4a.5.5 0 0 1 .5-.5h10a.5.5 0 0 1 0 1H3a.5.5 0 0 1-.5-.5z"/>
+    </svg>
+    </div>
+    <div id="title-bar">skssf kolathol unit</div>
+  </div>
+ 
+ 
+<div class="content-div" >
+	<div class="cluster" >
+		<div class="position">President</div>
+		<div class="name">Ahmad kabeer</div>
+		<div class="contact">
+			<div class="phone" onclick="call(1)">
+			<img src="phone.svg">
+			</div>
+			<div id="n1" class="number">9539922004</div>
+			<div class="whatsapp" onclick="msg(1)">
+			<img src="whatsapp.svg">
+			</div>
+		</div>
+	</div>
+	
+	<div class="cluster" >
+	<div class="position">vise President</div>
+	<div class="name">vahid kk</div>
+	<div class="contact">
+	<div class="phone" onclick="call(2)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n2" class="number">9744943839</div>
+	<div class="whatsapp" onclick="msg(2)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+	<div class="cluster" >
+	<div class="position">general secretary</div>
+	<div class="name">ibrahim</div>
+	<div class="contact">
+	<div class="phone" onclick="call(3)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n3" class="number">9745297498</div>
+	<div class="whatsapp" onclick="msg(3)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+	
+	<div class="cluster" >
+	<div class="position">working secretary</div>
+	<div class="name">abdul basith</div>
+	<div class="contact">
+	<div class="phone" onclick="call(4)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n4" class="number">9895256305</div>
+	<div class="whatsapp" onclick="msg(4)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+	<div class="cluster" >
+	<div class="position">treasurer</div>
+	<div class="name">askar naduvancheri</div>
+	<div class="contact">
+	<div class="phone" onclick="call(5)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n5" class="number">9846643260</div>
+	<div class="whatsapp" onclick="msg(5)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+	
+	<div class="cluster" >
+	<div class="position">ibad secretary</div>
+	<div class="name">hashim</div>
+	<div class="contact">
+	<div class="phone" onclick="call(6)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n6" class="number">7034663598</div>
+	<div class="whatsapp" onclick="msg(6)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+	<div class="cluster" >
+	<div class="position">viqaya secretary</div>
+	<div class="name">safeer</div>
+	<div class="contact">
+	<div class="phone" onclick="call(7)">
+	
+	<img src="phone.svg">
+	</div>
+	<div id="n7" class="number">7591954852</div>
+	<div class="whatsapp" onclick="msg(7)">
+	<img src="whatsapp.svg">
+	</div>
+	</div>
+	</div>
+	
+    <div class="cluster" >
+    <div class="position">trend secretary</div>
+    <div class="name">shibili</div>
+    <div class="contact">
+    <div class="phone" onclick="call(8)">
+	
+    <img src="phone.svg">
+    </div>
+    <div id="n8" class="number">9847584414</div>
+    <div class="whatsapp" onclick="msg(8)">
+    <img src="whatsapp.svg">
+    </div>
+    </div>
+    </div>
+    
+    <div class="cluster" >
+    <div class="position">sargalayam secretary</div>
+    <div class="name">arshakh</div>
+    <div class="contact">
+    <div class="phone" onclick="call(9)">
+	
+    <img src="phone.svg">
+    </div>
+    <div id="n9" class="number">8089127838</div>
+    <div class="whatsapp" onclick="msg(9)">
+    <img src="whatsapp.svg">
+    </div>
+    </div>
+    </div>
+    
+    <div class="cluster" >
+    <div class="position">sahachari secretary</div>
+    <div class="name">safeed</div>
+    <div class="contact">
+    <div class="phone" onclick="call(10)">
+	
+    <img src="phone.svg">
+    </div>
+    <div id="n10" class="number">7356176210</div>
+    <div class="whatsapp" onclick="msg(10)">
+    <img src="whatsapp.svg">
+    </div>
+    </div>
+    </div>
+    
+    
+    <div class="cluster" >
+    <div class="position">twalaba secretary</div>
+    <div class="name">nihal naduvattom</div>
+    <div class="contact">
+    <div class="phone" onclick="call(11)">
+	
+    <img src="phone.svg">
+    </div>
+    <div id="n11" class="number">8891491774</div>
+    <div class="whatsapp" onclick="msg(11)">
+    <img src="whatsapp.svg">
+    </div>
+    </div>
+    </div>
+   
+</div>
+ <script src="js/scripts.js"></script>
+ <script type="text/javascript">
+ function call(num)
+ {
+   var pn=document.getElementById("n"+num).innerHTML;
+   app.Call(pn);
+ }
+ 
+ 
+ function msg(num)
+ {
+  var pn=document.getElementById("n"+num).innerHTML;
+  var url = "whatsapp://send?text=" + encodeURI("Hi") + "&phone=" + pn;
+  app.OpenUrl(url);
+ }
+ 
+ </script>
+</body>
+</html>
